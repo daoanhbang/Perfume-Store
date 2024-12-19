@@ -36,7 +36,7 @@
 
 <nav class="navbar navbar-expand-lg navbar-light bg-light small-text">
   {{-- <div class="container"> --}}
-    <a style="padding: 15px" class="navbar-brand" href="{{ url('/dashboard') }}"><img src="{{asset('assets/images/logo.gif')}}" alt="Logo đầu trang"/></a>
+    <a style="padding: 15px;" class="navbar-brand" href="{{ url('/dashboard') }}"><img src="{{asset('assets/images/logo_anspa_ad.png')}}" alt="Logo đầu trang"/></a>
 
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>

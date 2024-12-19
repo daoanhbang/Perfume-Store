@@ -21,7 +21,7 @@
 
                 <div class="col-md-12 mb-5" style="text-align: center">
                     <h2 class="chopchop">Giới Thiệu Về Website</h2>
-                    <a href="/home"><img  src="{{asset('assets/images/logo.gif')}}" alt="Logo đầu trang"/></a>
+                    <a href="/home"><img  src="{{asset('assets/images/logo_anspa_ad.png')}}" alt="Logo đầu trang"/></a>
                 </div>
 
                 <div class="col-md-6 mt-3">
